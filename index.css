@@ -1,0 +1,15 @@
+:root{
+    --base:#ffc600
+    --width:10px
+}
+
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.canvas-cont{
+    border: solid 2px black;
+}
